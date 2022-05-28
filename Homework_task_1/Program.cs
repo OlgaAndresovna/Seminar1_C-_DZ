@@ -5,14 +5,11 @@ Console.WriteLine("Введите второе число :");
 int b = int.Parse(Console.ReadLine( ));
 if (a > b) 
 {
-//Console.WriteLine( a );
 Console.Write( "Максимальное число = ") ; 
 Console.WriteLine( a ) ;
 }
 else
 {
-// Console.WriteLine( b );
 Console.Write( "Максимальное число = ") ; 
 Console.WriteLine( b ) ;
 }
-
